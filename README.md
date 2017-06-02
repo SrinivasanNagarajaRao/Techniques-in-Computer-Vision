@@ -1,1 +1,3 @@
 # Techniques-in-Computer-Vision
+
+The motivation of this project is to put into practice the skills and knowledge acquired in the Computer Vision Module, at the MSc Data Science. The first task of this project will compare the performance of 2 different methods for the extraction of features from images (HOG and SURF), and the classification performance of three models (Random Forest, K-nearest neighbours, and Softmax neural network) for each of the feature extraction methods, resulting in a total of 6 combinations. The second task uses augmented reality in a video to place a 3D object (a red cow) on the palm of a hand.
